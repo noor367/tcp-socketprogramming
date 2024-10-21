@@ -1,7 +1,6 @@
 /*
  * Java multi-threading server with TCP
  * 
- * z5417124
  * 11/2023
  * 
  * Adapted from CSE Multi-threaded code file TCPServer.java by Wei Song

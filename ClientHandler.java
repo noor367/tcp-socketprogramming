@@ -2,7 +2,6 @@
  * Helper Class to handle clients
  * Manages and deals with multi-threading
  * 
- * z5417124
  * 11/2023
  * 
  * */

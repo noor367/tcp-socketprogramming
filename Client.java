@@ -1,7 +1,6 @@
 /*
  * Java multi-threading client with TCP
  * 
- * z5417124
  * 11/2023
  * 
  * Adapted from CSE Multi-threaded code file TCPClient.java by Wei Song

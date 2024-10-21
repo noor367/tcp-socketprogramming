@@ -1,7 +1,6 @@
 /*
  * Helper Class to define a user
  * 
- * z5417124
  * 11/2023
  * 
  * */
